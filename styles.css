@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset = "utf-8">
+	  <title>Quiz 7-9</title>
+
+	  <style type = "text/css">
+
+
+    *         {
+
+    } 
+
+    p         { font-family: Arial, Helvetica, sans-serif; 
+                color: #FF0B89;
+                text-align: center;}
+
+    
+    h1,h2        { 
+                font-family:Arial, Helvetica, sans-serif ; 
+                color: #FF0B89;
+                text-align: center;}
+
+    body      {
+               background: #ddd6f3;  /* fallback for old browsers */
+               background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);  /* Chrome 10-25, Safari 5.1-6 */
+               background: linear-gradient(to right, #faaca8, #ddd6f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+               text-align: center;
+               color: #FF0B89; }
+
+
+    
+
+    table, th, td {
+               border: 1px solid #FF0B89;
+               width: 50%;
+               height: 50px;
+               text-align: center;
+               vertical-align: bottom;
+
+                  } 
+
+
+    table.center {
+
+                margin-left: auto;
+                margin-right: auto;
+
+                 }
+
+    input, select, textarea { 
+                 color: #FF0B89; 
+                 }             
+
+	  </style>	
+  </head>
+
+    
+</html>
